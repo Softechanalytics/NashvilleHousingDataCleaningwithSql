@@ -11,7 +11,7 @@ This project focuses on cleaning real-world housing data using **SQL** to ensure
 
 ![link to Dataset](https://github.com/Softechanalytics/NashvilleHousingDataCleaningwithSql/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 
-![link to SQL Code](
+![link to SQL Code](https://github.com/Softechanalytics/NashvilleHousingDataCleaningwithSql/blob/main/Nashville_Datacleaning_Sql.sql)
 
 ---
 
