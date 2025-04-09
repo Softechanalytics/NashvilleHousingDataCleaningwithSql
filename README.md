@@ -9,7 +9,7 @@ This project focuses on cleaning real-world housing data using **SQL** to ensure
 - **File**: `Nashville Housing Data for Data Cleaning.xlsx`
 - **Description**: Contains property records from Nashville with various inconsistencies, missing values, and formatting issues.
 
-![link to Dataset](
+![link to Dataset](https://github.com/Softechanalytics/NashvilleHousingDataCleaningwithSql/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 
 ![link to SQL Code](
 
