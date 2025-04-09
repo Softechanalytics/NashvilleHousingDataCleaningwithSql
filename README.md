@@ -9,6 +9,10 @@ This project focuses on cleaning real-world housing data using **SQL** to ensure
 - **File**: `Nashville Housing Data for Data Cleaning.xlsx`
 - **Description**: Contains property records from Nashville with various inconsistencies, missing values, and formatting issues.
 
+![link to Dataset](
+
+![link to SQL Code](
+
 ---
 
 ## 🎯 Objectives
@@ -52,6 +56,26 @@ This project focuses on cleaning real-world housing data using **SQL** to ensure
 
 ---
 
+## 🚀 Outcome
+
+Created a cleaned dataset ready for data analysis or dashboard creation.
+
+Demonstrated SQL skills in:
+
+String manipulation
+
+Data type conversion
+
+Conditional updates
+
+De-duplication and normalization
+---
+## 📬 Author
+
+Anyakwu Chukwuemeka Isaac
+For questions or feedback, feel free to connect via LinkedIn or Email
+---
+
 ## 🧾 Sample SQL Snippets
 
 ```sql
@@ -73,7 +97,7 @@ WITH RowNumCTE AS (
 )
 DELETE FROM RowNumCTE WHERE row_num > 1;
 
-## 📁 Project Files
+ 📁 Project Files
 
 bash
 Copy
@@ -82,21 +106,4 @@ Edit
 ├── Nashville_Datacleaning_Sql.sql                 # SQL cleaning script
 ├── README.md                                       # Documentation
 
-## 🚀 Outcome
 
-Created a cleaned dataset ready for data analysis or dashboard creation.
-
-Demonstrated SQL skills in:
-
-String manipulation
-
-Data type conversion
-
-Conditional updates
-
-De-duplication and normalization
-
-## 📬 Author
-
-Anyakwu Chukwuemeka Isaac
-For questions or feedback, feel free to connect via LinkedIn or Email
